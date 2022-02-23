@@ -1,4 +1,9 @@
 # Data Visualization using Matplotlib, seaborn and statistics
-https://www.geeksforgeeks.org/matplotlib-practice-exercise-and-solutions/
 
-https://www.geeksforgeeks.org/python-seaborn-tutorial/
+
+
+Reference:
+
+1. https://www.geeksforgeeks.org/matplotlib-practice-exercise-and-solutions/
+
+2. https://www.geeksforgeeks.org/python-seaborn-tutorial/
